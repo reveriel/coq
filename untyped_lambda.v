@@ -12,7 +12,7 @@ Fail Compute Ident Ident.
 (* Type error *)
 
 
-(* But!!! We cant define a new Type *)
+(* But!!! We can define a new Type *)
 
 (* First, variable *)
 (* Inductive var : Type := *)
